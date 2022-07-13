@@ -5,7 +5,20 @@
   <br />
 </p>
 
-<h2 align="center">Awesome TailwindCSS Components</h2>
+<h2 align="center">Awesome TailwindCSS Libraries</h2>
+
+<p align="center">
+  <a href="https://tailwindcss.com">Tailwind CSS</a> is a utility-first CSS framework for rapidly building custom user interfaces.
+  <br />
+  <br />
+  <a href="https://github.com/sindresorhus/awesome">
+    <img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome badge">
+  </a>
+  &nbsp;
+  If you are interested in contributing please follow our <a href="/">guidelines</a>
+  <br />
+  <br />
+</p>
 
 * [Tailwind UI](https://tailwindui.com/) - Official TailwindCSS Components and templates [HTML/React/Vue] **(Free/Paid)**
 * [Flowbite](https://flowbite.com/) - UI component library [HTML/React/Vue/Svelte/Angular] **(Free/Paid)**
