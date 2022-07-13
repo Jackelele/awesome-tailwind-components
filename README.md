@@ -51,3 +51,18 @@
 * [Cruip](https://cruip.com/) - Free and paid templates for TailwindCSS [HTML/React/Vue] **(Free/Paid)**
 * [Cruip Components](https://codepen.io/cruip) - Free components created by Cruip [HTML] **(Free)**
 * [Wicked Templates](https://www.wickedtemplates.com/) - Uniquely designed templates [HTML] **(Paid)**
+* [Tailus](https://tailus.io/) - Modern and beautiful blocks [HTML/React] **(Free)**
+* [Harmony](https://harmony.wickedtemplates.com/) - A simple and modern UI kit for SAAS [HTML] **(Paid)**
+* [Tailwind Kit](https://www.tailwind-kit.com/) - Tailwind components and templates [HTML] **(Free)**
+* [PostSrc](https://postsrc.com/components) - Collection of components for everyone to use [HTML] **(Free)**
+* [Tailwind UI KIt](https://tailwinduikit.com/) - A selection of fully-responsive, drop-in ready components [HTML/Angular/React/Vue] **(Free/Paid)**
+* [Kimia UI](https://kimia-ui.vercel.app/) - A collection of UI components for React [React] **(Free)**
+* [Konsta UI](https://konstaui.com/) - Pixel perfect mobile UI components [React/Vue/Svelte] **(Free)**
+* [Preline UI](https://preline.co/) - Open-source set of prebuilt UI components [HTML/React/Vue] **(Free)**
+* [TailGrids](https://tailgrids.com/) - Handcrated Library of UI Components and Blocks [HTML] **(Free/Paid)**
+* [Shuffle.dev](https://shuffle.dev/components/tailwind) - Ready-made UI components [HTML] **(Free/Paid)**
+* [SaaS Blocks](https://saasblocks.app/) - TailwindCSS React components for Apps and Websites [React] **(Free/Paid)**
+* [Tailwind Master Kit](https://www.tailwindmasterkit.com/components) - Hancrated, Professional Tailwind UI components [React/Angular/HTML] **(Free/Paid
+* [Smelte](https://smeltejs.com/) - UI Framework on top of Svelte and TailwindCSS using Material design. [Svelte] **(Free)**
+* [Razor UI](https://razorui.com/) - A cutting edge UI kit for Tailwind CSS [Vue/React] **(Free/Paid)**
+
