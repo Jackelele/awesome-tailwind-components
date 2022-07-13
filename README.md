@@ -8,7 +8,8 @@
 <h2 align="center">Awesome TailwindCSS Libraries</h2>
 
 <p align="center">
-  <a href="https://tailwindcss.com">Tailwind CSS</a> is a utility-first CSS framework for rapidly building custom user interfaces. If you are interested in contributing please follow our <a href="/">guidelines</a>
+  <a href="https://tailwindcss.com">Tailwind CSS</a> is a utility-first CSS framework for rapidly building custom user interfaces.<br />
+  If you are interested in contributing please follow our <a href="/">guidelines</a>
   <br />
   <br />
   <a href="https://github.com/sindresorhus/awesome">
